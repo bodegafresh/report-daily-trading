@@ -16,7 +16,7 @@ TRADES_CSV = Path("trades.csv")
 SESSIONS_CSV = Path("sessions.csv")
 
 # Catálogos controlados
-ASSETS = ["EUR/USD", "GBP/USD", "USD/JPY", "USD/CAD", "EUR/JPY", "EUR/GBP"]
+ASSETS = ["EUR/USD", "GBP/USD", "USD/JPY", "USD/CAD", "EUR/JPY", "EUR/GBP", "BTC/USD", "Asia comoposites", "Euro composites", "Compound Index"]
 TIMEFRAMES = ["1m", "5m"]
 DIRECTIONS = ["↑", "↓"]
 OUTCOMES = ["win", "loss", "tie"]
