@@ -102,3 +102,4 @@ El ejecutable quedará en `dist/trades_gui`. Puedes empaquetarlo para distribuir
 ---
 
 Autor: @bodegafresh · 2025
+
