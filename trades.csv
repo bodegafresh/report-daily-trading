@@ -92,3 +92,7 @@ datetime,date,asset,timeframe,amount,direction,outcome,payout_pct,pnl,emotion,no
 2025-10-06 07:04:44,2025-10-06,EUR/USD,1m,10.00,↓,win,82.00,8.20,Neutral,
 2025-10-06 09:39:06,2025-10-06,GBP/USD,1m,10.00,↓,tie,82.00,0.00,Neutral,
 2025-10-06 10:41:36,2025-10-06,GBP/USD,1m,10.00,↑,loss,82.00,-10.00,Neutral,
+2025-10-10 10:22:01,2025-10-10,GBP/USD,1m,10.00,↑,win,82.00,8.20,Neutral,
+2025-10-10 10:26:33,2025-10-10,EUR/USD,1m,10.00,↓,win,82.00,8.20,Neutral,
+2025-10-10 10:42:16,2025-10-10,GBP/USD,1m,10.00,↑,win,82.00,8.20,Neutral,
+2025-10-10 11:04:04,2025-10-10,GBP/USD,1m,10.00,↓,loss,82.00,-10.00,Neutral,

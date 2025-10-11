@@ -1,4 +1,4 @@
-#!/Users/mcerda/mcerda_git/report-daily-trading/.venv/bin/python3.12
+#!/mnt/storage/git/report-daily-trading/.venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
